@@ -1,4 +1,4 @@
-# Nimbus — Authentication Frontend
+# LoginSystem — Authentication Frontend
 
 A frontend-only, production-style authentication UI built with React, TypeScript, Vite, and Tailwind CSS.
 
